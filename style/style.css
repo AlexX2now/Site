@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    height: 39px;
+    background-color: black;
+    display: block;
+    position: sticky;
+  top: 0;
+}
+
+.hh1{
+    color: aliceblue;
+    display: inline;
+    margin-right: 10px;
+}
+
+.hh1:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.hh2:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.hh2{
+    color: aliceblue;
+    display: inline;
+    margin-right: 10px;
+}
+
+main{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.mp{
+    text-align: justify;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.mtxt{
+    margin: 0 auto;
+    width: 940px;
+}
+
+.headi{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.mh1{
+    font-size: 47px;
+    margin-bottom: 30px;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    display: inline;
+    margin-right: 10px;
+}
+
+.aythor{
+    color: rgb(124, 124, 124);
+    font-size: 19px;
+    text-align: left;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+footer{
+    height: 80px;
+    background-color: black;
+}
